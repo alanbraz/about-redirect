@@ -3,3 +3,4 @@ applications:
   memory: 32M
   disk_quota: 32M
   buildpack: staticfile-buildpack
+  random-route: true
