@@ -1,0 +1,5 @@
+applications:
+- name: about-redirect
+  memory: 32M
+  disk_quota: 32M
+  buildpack: staticfile-buildpack
